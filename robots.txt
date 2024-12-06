@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /article/
+
+User-agent: *
+Disallow: /category/
+
+User-agent: *
+Disallow: /tag/
+
+User-agent: *
+Disallow: /timeline/
+
+User-agent: *
+Disallow: /star/
+
+User-agent: *
+Disallow: /zh/article/
+
+User-agent: *
+Disallow: /zh/category/
+
+User-agent: *
+Disallow: /zh/tag/
+
+User-agent: *
+Disallow: /zh/timeline/
+
+User-agent: *
+Disallow: /zh/star/
+
+Sitemap: https://lypvvvlyp.top/sitemap.xml
